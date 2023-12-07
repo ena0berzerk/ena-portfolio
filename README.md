@@ -1,19 +1,10 @@
 # Ena Berzerk's Portfolio
 
-Портфолио моих проектов
+### My blog
 
-### Установить зависимости:
+![my-blog](https://github.com/ena0berzerk/ena-portfolio/assets/110235307/3d4501d9-d905-4a38-98e9-d2517fc73e12)
 
-```bash
+### Live
 
-npm install
+[Blog](https://ena0berzerk.github.io/ena-portfolio/)
 
-```
-
-### Запустить локальный сервер:
-
-```bash
-
-npm run start
-
-```
